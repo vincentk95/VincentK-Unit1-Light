@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Light
 //
-//  Created by Vincent Kieberl on 06/02/2018.
+//  Created by Vincent K on 06/02/2018.
 //  Copyright © 2018 Native App Studio. All rights reserved.
 //
 
