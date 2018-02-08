@@ -14,6 +14,7 @@
 		BF9236A02029A8CF009DD7DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF92369E2029A8CF009DD7DF /* LaunchScreen.storyboard */; };
 		BF9236AB2029A8D0009DD7DF /* LightTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF9236AA2029A8D0009DD7DF /* LightTests.swift */; };
 		BF9236B62029A8D0009DD7DF /* LightUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF9236B52029A8D0009DD7DF /* LightUITests.swift */; };
+		BFB033D9202C5AD1008D6565 /* doc in Resources */ = {isa = PBXBuildFile; fileRef = BFB033D8202C5AD1008D6565 /* doc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BF9236B12029A8D0009DD7DF /* LightUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LightUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF9236B52029A8D0009DD7DF /* LightUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LightUITests.swift; sourceTree = "<group>"; };
 		BF9236B72029A8D0009DD7DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFB033D8202C5AD1008D6565 /* doc */ = {isa = PBXFileReference; lastKnownFileType = folder; path = doc; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		BF9236892029A8CF009DD7DF = {
 			isa = PBXGroup;
 			children = (
+				BFB033D8202C5AD1008D6565 /* doc */,
 				BF9236942029A8CF009DD7DF /* Light */,
 				BF9236A92029A8D0009DD7DF /* LightTests */,
 				BF9236B42029A8D0009DD7DF /* LightUITests */,
@@ -234,6 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF9236A02029A8CF009DD7DF /* LaunchScreen.storyboard in Resources */,
+				BFB033D9202C5AD1008D6565 /* doc in Resources */,
 				BF92369D2029A8CF009DD7DF /* Assets.xcassets in Resources */,
 				BF92369B2029A8CF009DD7DF /* Main.storyboard in Resources */,
 			);
